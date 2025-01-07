@@ -6,7 +6,6 @@
 }
 
 body {
-    overflow: hidden;
     background-image: url('/assets/images/wallpaper-liquid-purple.jpg');
     background-size: cover;
     display: flex;
